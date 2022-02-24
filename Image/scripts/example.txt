@@ -1,3 +1,2 @@
-example
-123
-456
+ glcg-rda-node-image: abc
+rda-cas-rpm: xyx
