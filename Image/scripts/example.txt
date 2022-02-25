@@ -1,2 +1,2 @@
  glcg-rda-node-image: abc
-rda-cas-rpm: xyx
+rda-cas-rpm : 1.26-91123  
